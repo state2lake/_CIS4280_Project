@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="distance">Distance</string>
+    <string name="temperature">Temperature</string>
+    <string name="weight">Weight</string>
+    <string name="volume">Volume</string>
+
+
+    <string name="edit_temperature">Edit Temperature</string>
+    <string name="button_temperature">Button Temperature</string>
+    <string name="conversion_temperature">Conversion Temperature</string>
+
+
+    <string name="edit_distance">Edit Distance</string>
+    <string name="button_distance">Button Distance</string>
+    <string name="conversion_distance">Conversion Temperature</string>
+
+    <string name="edit_weight">Edit Weight</string>
+    <string name="button_weight">Button Weight</string>
+    <string name="conversion_weight">Conversion Weight</string>
+
+    <string name="edit_volume">Edit Volume</string>
+    <string name="button_volume">Button Volume</string>
+    <string name="conversion_volume">Conversion Volume</string>
+</resources>
